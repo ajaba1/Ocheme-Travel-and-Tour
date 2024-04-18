@@ -1,0 +1,39 @@
+#hero--section {
+  background: url(https://travel.usnews.com/dims4/USNEWS/8887e35/2147483647/resize/976x652%5E%3E/crop/976x652/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2FNew_Paris_pic_jw04ZlH.jpg);
+  height: 70vh;
+  backgroung-repeat: no-repeat;
+  background-size: cover;
+}
+.destination-section {
+  margin: 100px;
+
+  display: flex;
+  justify-content: center; align-items: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+/* body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  text-align: center;
+} */
+#tour-packages a {
+  text-decoration: none;
+  background-color: cadetblue;
+  padding top: 5px;
+  
+}
+#tour-packages {
+  margin: 2rem;
+}
+.coast {
+  margin-bottom: 300px;
+}
+
